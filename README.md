@@ -14,7 +14,7 @@
 
 # Introduction
 ## Who am I?
-**Zynobia Pickett**
+**Zynobia Pickett <br> SUNY ECC graduate with an Associates in IT and currently pursuing Bachelors dgeree in CSCI**
 
 ## Who are you?
 - Name
