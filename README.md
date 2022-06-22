@@ -14,13 +14,12 @@
 
 # Introduction
 ## Who am I?
-**Kyle Liu**
+**Zynobia Pickett**
 
 ## Who are you?
 - Name
 - Where are you from?
-- What you do?
-- Why are you taking this class?
+- Favorite movie/show/game/anime?
 
 ## A little bit about the World Wide Web
 Just about everyone has accessed a website. Its typical as a normal user that you type a web address and your page changes to the website you expect, but what is actually happening here? 
