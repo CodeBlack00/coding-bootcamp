@@ -14,7 +14,7 @@
 
 # Introduction
 ## Who am I?
-**Zynobia Pickett <br> SUNY ECC graduate with an Associates in IT and currently pursuing Bachelors dgeree in CSCI**
+**<p>Zynobia Pickett <br> SUNY ECC graduate with an Associate degree in IT and currently pursuing Bachelors dgeree in CSCI. Right now, my favorite show is Young Justice on HBO Max. My favorite anime right now are Jujutsu Kaisen and SPY x FAMILY</p>**
 
 ## Who are you?
 - Name
