@@ -1,4 +1,4 @@
-# ![]CODE IN ONE DAY: HTML & CSS BOOTCAMP
+# !CODE IN ONE DAY: HTML & CSS BOOTCAMP
 
 ![](/images/html-css-js.png)
 
