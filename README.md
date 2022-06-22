@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CODE IN ONE DAY: HTML & CSS BOOTCAMP
+# ![]CODE IN ONE DAY: HTML & CSS BOOTCAMP
 
 ![](/images/html-css-js.png)
 
