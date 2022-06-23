@@ -596,4 +596,4 @@ It also offers its users a free hosting service for static sites. It can host si
 NEVER BE AFRAID TO ASK QUESTIONS
 
 ## My Contact Info
-kyle116@yahoo.com
+zpickett0610@gmail.com
